@@ -6,8 +6,12 @@
 
 epoll详细讲解：
 https://zhuanlan.zhihu.com/p/63179839
+
 EPOLL 事件之 EPOLLRDHUP:
 https://blog.csdn.net/midion9/article/details/49883063
+
+陈硕blog:
+http://www.cppblog.com/Solstice/archive/2010/09/08/muduo_vs_libevent_bench.html
 
 Go内存分析：
 https://blog.csdn.net/kenkao/article/details/96300389
