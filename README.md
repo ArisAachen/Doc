@@ -6,6 +6,8 @@
 
 epoll详细讲解：
 https://zhuanlan.zhihu.com/p/63179839
+EPOLL 事件之 EPOLLRDHUP:
+https://blog.csdn.net/midion9/article/details/49883063
 
 Go内存分析：
 https://blog.csdn.net/kenkao/article/details/96300389
