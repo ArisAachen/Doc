@@ -14,3 +14,5 @@ udevadm info -p /sys/devices/pci0000:00/0000:00:1c.0/0000:02:00.0/net/enp2s0
 6.qdbus --literal --dest
 
 7.sudo gdb -pid
+
+8. package.debian.org 检索包
