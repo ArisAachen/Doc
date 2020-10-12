@@ -19,3 +19,14 @@ udevadm info -p /sys/devices/pci0000:00/0000:00:1c.0/0000:02:00.0/net/enp2s0
 
 9. getent passwd lightdm
 sudo -u lightdm /bin/bash
+
+10.
+创建bond
+nmcli conncetion add con-name bond0 type bond ifname bond0 mode balance-rr
+
+绑定bond
+nmcli connection add type bond-slave ifname enp5s0f0 master bond0
+nmcli connection add type bond-slave ifname enp5s0f2 master bond0
+
+启动连接
+nmcli connection up bond-slave bond-slave
