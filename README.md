@@ -18,3 +18,7 @@ https://blog.csdn.net/kenkao/article/details/96300389
 
 蓝牙和wifi管理：
 https://www.linuxcool.com/rfkill
+
+NetworkManager proxy:
+https://wiki.gnome.org/Projects/NetworkManager/Proxies
+https://wiki.archlinux.org/index.php/NetworkManager#Proxy_settings
