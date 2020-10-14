@@ -30,3 +30,6 @@ nmcli connection add type bond-slave ifname enp5s0f2 master bond0
 
 启动连接
 nmcli connection up bond-slave bond-slave
+
+11. 
+xset dpms force off
