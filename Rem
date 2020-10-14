@@ -31,5 +31,8 @@ nmcli connection add type bond-slave ifname enp5s0f2 master bond0
 启动连接
 nmcli connection up bond-slave bond-slave
 
-11. 
+11.关闭显示器 
 xset dpms force off
+
+12.linux proxy gsettings:
+org.gnome.system.proxy
