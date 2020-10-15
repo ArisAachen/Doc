@@ -33,6 +33,8 @@ nmcli connection up bond-slave bond-slave
 
 11.关闭显示器 
 xset dpms force off
+xset q
+xtrace
 
 12.linux proxy gsettings:
 org.gnome.system.proxy
