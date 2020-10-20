@@ -38,3 +38,5 @@ xtrace
 
 12.linux proxy gsettings:
 org.gnome.system.proxy
+
+13.system级别服务不能调用session级别服务
