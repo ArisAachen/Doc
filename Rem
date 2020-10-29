@@ -40,3 +40,5 @@ xtrace
 org.gnome.system.proxy
 
 13.system级别服务不能调用session级别服务
+
+14.$ timedatectl show-timesync --all
