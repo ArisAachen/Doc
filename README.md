@@ -45,3 +45,4 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/co
 
 iptables:
 https://www.cnblogs.com/liang2580/articles/8400140.html
+http://www.zsythink.net/archives/1199/
