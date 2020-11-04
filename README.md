@@ -46,6 +46,9 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/co
 NetworkManager Proxies:
 https://wiki.gnome.org/Projects/NetworkManager/Proxies
 
+sshuttle全局代理的实现简析
+https://blog.csdn.net/cnsword/article/details/16994059
+
 iptables:
 https://www.cnblogs.com/liang2580/articles/8400140.html
 http://www.zsythink.net/archives/tag/iptables/
