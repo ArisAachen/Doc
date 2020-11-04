@@ -43,6 +43,9 @@ https://wiki.archlinux.org/index.php/XScreenSaver_(%E7%AE%80%E4%BD%93%E4%B8%AD%E
 NetworkManager Doc:
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/index
 
+NetworkManager Proxies:
+https://wiki.gnome.org/Projects/NetworkManager/Proxies
+
 iptables:
 https://www.cnblogs.com/liang2580/articles/8400140.html
 http://www.zsythink.net/archives/tag/iptables/
