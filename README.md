@@ -52,3 +52,6 @@ https://blog.csdn.net/cnsword/article/details/16994059
 iptables:
 https://www.cnblogs.com/liang2580/articles/8400140.html
 http://www.zsythink.net/archives/tag/iptables/
+
+socks5
+https://www.cnblogs.com/yinzhengjie/p/7357860.html
