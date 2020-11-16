@@ -21,7 +21,7 @@ https://www.linuxcool.com/rfkill
 
 NetworkManager proxy:
 https://wiki.gnome.org/Projects/NetworkManager/Proxies
-https://wiki.archlinux.org/index.php/NetworkManager#Proxy_settings
+https://wiki.archlinux.org/index.php/NetworkManager#Proxy_settingsNetwr
 
 
 DHCP doc:
@@ -65,3 +65,8 @@ c++:
 https://github.com/lynnboy/CppCoreGuidelines-zh-CN/blob/master/CppCoreGuidelines-zh-CN.md
 
 tls:https://juejin.im/post/6844903667577929742
+
+
+
+NetworkManger cmd:
+https://docs.huihoo.com/doxygen/linux/kernel/3.7/include_2uapi_2linux_2ethtool_8h.html
