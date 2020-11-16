@@ -56,3 +56,7 @@ http://www.zsythink.net/archives/tag/iptables/
 
 socks5
 https://www.cnblogs.com/yinzhengjie/p/7357860.html
+
+
+c++:
+https://github.com/lynnboy/CppCoreGuidelines-zh-CN/blob/master/CppCoreGuidelines-zh-CN.md
