@@ -70,3 +70,7 @@ tls:https://juejin.im/post/6844903667577929742
 
 NetworkManger cmd:
 https://docs.huihoo.com/doxygen/linux/kernel/3.7/include_2uapi_2linux_2ethtool_8h.html
+
+
+vscode:
+https://warmgrid.github.io/2019/05/21/remote-debug-in-vscode-insiders.html
