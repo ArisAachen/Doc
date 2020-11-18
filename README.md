@@ -74,3 +74,7 @@ https://docs.huihoo.com/doxygen/linux/kernel/3.7/include_2uapi_2linux_2ethtool_8
 
 vscode:
 https://warmgrid.github.io/2019/05/21/remote-debug-in-vscode-insiders.html
+
+
+malloc:
+https://zhuanlan.zhihu.com/p/57863097
