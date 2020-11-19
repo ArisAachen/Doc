@@ -78,3 +78,8 @@ https://warmgrid.github.io/2019/05/21/remote-debug-in-vscode-insiders.html
 
 malloc:
 https://zhuanlan.zhihu.com/p/57863097
+
+
+
+monitor proc:
+https://stackoverflow.com/questions/28552339/programmatically-monitor-process-state-using-c/28602298#28602298
