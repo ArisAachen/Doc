@@ -91,6 +91,7 @@ https://bewareofgeek.livejournal.com/2945.html
 https://www.cnblogs.com/hoys/archive/2011/04/09/2010788.html
 https://www.cnblogs.com/LittleHann/p/4418754.html
 http://blog.chinaunix.net/uid-15014334-id-5587278.html
+https://gist.github.com/pmalmgren/e3498ee4e137a11f2db9330b191afa9f
 
 linux:
 https://github.com/g0dA/linuxStack
