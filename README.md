@@ -22,6 +22,7 @@ https://www.linuxcool.com/rfkill
 NetworkManager proxy:
 https://wiki.gnome.org/Projects/NetworkManager/Proxies
 https://wiki.archlinux.org/index.php/NetworkManager#Proxy_settingsNetwr
+https://cloud.tencent.com/developer/article/1151894
 
 
 DHCP doc:
