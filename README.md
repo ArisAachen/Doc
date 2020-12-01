@@ -46,6 +46,7 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/co
 
 NetworkManager Proxies:
 https://wiki.gnome.org/Projects/NetworkManager/Proxies
+https://github.com/springzfx/cgproxy
 
 sshuttle全局代理的实现简析
 https://blog.csdn.net/cnsword/article/details/16994059
