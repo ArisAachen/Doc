@@ -117,3 +117,5 @@ patch:
 https://my.oschina.net/u/1248114/blog/3123828
 deb:
 https://blog.csdn.net/expleeve/article/details/5982830
+
+https://www.debian.org/doc/manuals/maint-guide/advanced.zh-cn.html
