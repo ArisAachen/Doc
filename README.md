@@ -111,3 +111,7 @@ https://blog.csdn.net/zqixiao_09
 监控网卡
 https://blog.csdn.net/Bsi_l4/article/details/49723737
 https://www.xml.com/ldd/chapter/book/ch14.html#t3
+
+
+patch:
+https://my.oschina.net/u/1248114/blog/3123828
