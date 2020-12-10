@@ -115,3 +115,5 @@ https://www.xml.com/ldd/chapter/book/ch14.html#t3
 
 patch:
 https://my.oschina.net/u/1248114/blog/3123828
+deb:
+https://blog.csdn.net/expleeve/article/details/5982830
