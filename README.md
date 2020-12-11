@@ -119,3 +119,8 @@ deb:
 https://blog.csdn.net/expleeve/article/details/5982830
 
 https://www.debian.org/doc/manuals/maint-guide/advanced.zh-cn.html
+
+
+portal:
+https://cshihong.github.io/2019/05/30/Portal%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%90%86/
+https://blog.csdn.net/City_of_skey/article/details/75913267?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
