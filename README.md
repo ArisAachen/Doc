@@ -128,3 +128,5 @@ https://blog.csdn.net/City_of_skey/article/details/75913267?utm_medium=distribut
 
 dpkg-symbols
 https://wiki.ubuntu.com/stefanlsd/dpkg-gensymbols
+
+内核初始化
