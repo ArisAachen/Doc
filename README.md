@@ -130,3 +130,6 @@ dpkg-symbols
 https://wiki.ubuntu.com/stefanlsd/dpkg-gensymbols
 
 内核初始化
+
+
+http://www.jfh.com/jfperiodical/article/1949?
