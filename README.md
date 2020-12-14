@@ -134,3 +134,6 @@ https://wiki.ubuntu.com/stefanlsd/dpkg-gensymbols
 
 nsq队列:
 http://www.jfh.com/jfperiodical/article/1949?
+
+linux inotify:
+https://www.linuxjournal.com/content/linux-filesystem-events-inotify
