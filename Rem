@@ -13,6 +13,8 @@ udevadm info -p /sys/devices/pci0000:00/0000:00:1c.0/0000:02:00.0/net/enp2s0
 
 6.qdbus --literal --dest
 https://liquidat.wordpress.com/tag/qdbus/
+https://www.freedesktop.org/software/gstreamer-sdk/data/docs/2012.5/gio/gdbus.html
+
 
 7.sudo gdb -pid
 
