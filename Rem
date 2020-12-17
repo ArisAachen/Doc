@@ -12,6 +12,7 @@ udevadm info -p /sys/devices/pci0000:00/0000:00:1c.0/0000:02:00.0/net/enp2s0
 5.scp 远程文件
 
 6.qdbus --literal --dest
+https://liquidat.wordpress.com/tag/qdbus/
 
 7.sudo gdb -pid
 
