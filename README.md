@@ -141,3 +141,7 @@ https://www.linuxjournal.com/content/linux-filesystem-events-inotify
 
 rtc:
 https://chromium.googlesource.com/external/webrtc/
+
+
+linux不支持５Ｇ：
+https://blog.csdn.net/subfate/article/details/51882322
