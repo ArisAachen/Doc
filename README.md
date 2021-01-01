@@ -151,6 +151,7 @@ https://blog.csdn.net/lycb_gz/article/details/17523603
 https://www.cnblogs.com/rjdeng/p/5633642.html
 https://www.freebuf.com/column/240988.html
 https://blog.csdn.net/Righthek
+https://zhuanlan.zhihu.com/p/52967573
 https://tech.hqew.com/fangan_775241
 
 802-1.x DCF:
@@ -168,3 +169,6 @@ https://www.zhihu.com/question/355416265
 
 wpa_psk
 https://blog.slinuxer.com/author/swordyork
+
+进程802-1.x:
+https://blog.csdn.net/u013095415/article/details/81478806
