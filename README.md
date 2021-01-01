@@ -169,6 +169,7 @@ https://www.zhihu.com/question/355416265
 
 wpa_psk
 https://blog.slinuxer.com/author/swordyork
+https://kysonlok.gitbook.io/blog/wireless/4_way_handshake
 
 进程802-1.x:
 https://blog.csdn.net/u013095415/article/details/81478806
