@@ -151,3 +151,17 @@ https://blog.csdn.net/lycb_gz/article/details/17523603
 https://www.cnblogs.com/rjdeng/p/5633642.html
 https://www.freebuf.com/column/240988.html
 https://blog.csdn.net/Righthek
+https://tech.hqew.com/fangan_775241
+
+802-1.x DCF:
+https://blog.csdn.net/LIN_SHUQING
+
+nmcli
+https://developer.gnome.org/NetworkManager/stable/nmcli-examples.html
+
+pam:
+https://blog.csdn.net/yyyyangyang/article/details/6589086
+
+双频路由：
+https://www.zhihu.com/question/20227409
+https://www.zhihu.com/question/355416265
