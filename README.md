@@ -173,3 +173,6 @@ https://kysonlok.gitbook.io/blog/wireless/4_way_handshake
 
 进程802-1.x:
 https://blog.csdn.net/u013095415/article/details/81478806
+
+wifi漫游：
+https://product.pconline.com.cn/itbk/wlbg/network/1802/10851726.html
