@@ -165,3 +165,6 @@ https://blog.csdn.net/yyyyangyang/article/details/6589086
 双频路由：
 https://www.zhihu.com/question/20227409
 https://www.zhihu.com/question/355416265
+
+wpa_psk
+https://blog.slinuxer.com/author/swordyork
