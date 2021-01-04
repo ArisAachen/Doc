@@ -188,3 +188,6 @@ https://www.jianshu.com/p/18b64eca421a
 
 rfc3748:
 https://wenku.baidu.com/view/0b4fe3a2284ac850ad024289.html
+
+wpa_supplicant模块介绍：
+https://breezetemple.github.io/2014/10/19/wpa-supplicant-introduction/
