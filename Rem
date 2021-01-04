@@ -47,3 +47,6 @@ org.gnome.system.proxy
 14.$ timedatectl show-timesync --all
 
 15.pacmd list-cards
+
+16.
+apt -a show org.wireshark.wireshark
