@@ -182,3 +182,6 @@ https://www.itread01.com/content/1550083514.html
 
 wifi术语
 https://www.jianshu.com/p/18b64eca421a
+
+rfc3748:
+https://wenku.baidu.com/view/0b4fe3a2284ac850ad024289.html
