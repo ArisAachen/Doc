@@ -157,6 +157,7 @@ https://www.intel.com.tw/content/www/tw/zh/support/articles/000006999/network-an
 https://tools.ietf.org/html/rfc5216
 https://fjkfwz.github.io/2014/12/04/H3C-inode-Linux/
 https://support.google.com/chrome/a/answer/6271313?hl=en
+http://etutorials.org/Networking/802.11+security.+wi-fi+protected+access+and+802.11i/
 
 802-1.x DCF:
 https://blog.csdn.net/LIN_SHUQING
