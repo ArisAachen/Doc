@@ -155,6 +155,7 @@ https://zhuanlan.zhihu.com/p/52967573
 https://tech.hqew.com/fangan_775241
 https://www.intel.com.tw/content/www/tw/zh/support/articles/000006999/network-and-i-o/wireless.html
 https://tools.ietf.org/html/rfc5216
+https://fjkfwz.github.io/2014/12/04/H3C-inode-Linux/
 
 802-1.x DCF:
 https://blog.csdn.net/LIN_SHUQING
