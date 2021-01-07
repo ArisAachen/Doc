@@ -187,6 +187,7 @@ https://www.itread01.com/content/1550083514.html
 https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/116493-technote-technology-00.html
 https://laijingwu.com/158.html#more-158
 https://www.cnblogs.com/MomentsLee/p/10320776.html
+http://revolutionwifi.blogspot.com/2013/01/wi-fi-roaming-analysis-with-wireshark.html
 
 wifi术语
 https://www.jianshu.com/p/18b64eca421a
