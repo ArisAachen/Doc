@@ -200,3 +200,7 @@ https://breezetemple.github.io/2014/10/19/wpa-supplicant-introduction/
 
 
 http报文头:https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods
+
+
+apparmor:
+https://www.cnblogs.com/zlhff/p/5464862.html
