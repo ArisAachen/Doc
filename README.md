@@ -197,3 +197,6 @@ https://wenku.baidu.com/view/0b4fe3a2284ac850ad024289.html
 
 wpa_supplicant模块介绍：
 https://breezetemple.github.io/2014/10/19/wpa-supplicant-introduction/
+
+
+http报文头:https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods
