@@ -61,6 +61,9 @@ https://www.cnblogs.com/qxxnxxFight/p/11002065.html
 http proxy:https://imququ.com/post/web-proxy.html
 https://blog.csdn.net/stonesharp/article/details/27091391
 
+iptables pid out of date:
+https://ubuntuforums.org/showthread.php?t=1591433
+
 socks5
 https://www.cnblogs.com/yinzhengjie/p/7357860.html
 
