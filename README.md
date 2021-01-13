@@ -63,6 +63,7 @@ https://blog.csdn.net/stonesharp/article/details/27091391
 
 iptables pid out of date:
 https://ubuntuforums.org/showthread.php?t=1591433
+https://stackoverflow.com/questions/4314163/create-iptables-rule-per-process-service
 
 socks5
 https://www.cnblogs.com/yinzhengjie/p/7357860.html
