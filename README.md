@@ -211,3 +211,15 @@ http报文头:https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods
 
 apparmor:
 https://www.cnblogs.com/zlhff/p/5464862.html
+
+
+TROXY:
+https://toutyrater.github.io/app/tproxy.html
+https://toutyrater.github.io/app/transparent_proxy.html
+https://blog.csdn.net/dog250/article/details/13161945
+
+REDIRECT:
+https://gist.github.com/fangdingjun/11e5d63abe9284dc0255a574a76bbcb1
+https://www.jianshu.com/p/76cea3ef249d
+https://gist.github.com/fangdingjun/11e5d63abe9284dc0255a574a76bbcb1
+
