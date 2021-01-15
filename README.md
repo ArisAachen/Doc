@@ -129,6 +129,7 @@ https://www.debian.org/doc/manuals/maint-guide/advanced.zh-cn.html
 portal:
 https://cshihong.github.io/2019/05/30/Portal%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%90%86/
 https://blog.csdn.net/City_of_skey/article/details/75913267?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-7.control
+https://community.ui.com/questions/Clients-cant-roam-between-APs-with-One-Time-Password-OTP-setup/de6b2868-26d4-4bfd-94d0-ca148a49080c
 
 dpkg-symbols
 https://wiki.ubuntu.com/stefanlsd/dpkg-gensymbols
