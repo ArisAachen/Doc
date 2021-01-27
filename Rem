@@ -50,3 +50,7 @@ org.gnome.system.proxy
 
 16.
 apt -a show org.wireshark.wireshark
+
+
+
+17. binary.write时　　带有 []byte类会失败
