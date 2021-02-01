@@ -219,6 +219,7 @@ https://toutyrater.github.io/app/tproxy.html
 https://toutyrater.github.io/app/transparent_proxy.html
 https://blog.csdn.net/dog250/article/details/13161945
 https://www.jianshu.com/p/76cea3ef249d
+https://vvl.me/2018/06/from-ss-redir-to-linux-nat/
 
 REDIRECT:
 https://gist.github.com/fangdingjun/11e5d63abe9284dc0255a574a76bbcb1
