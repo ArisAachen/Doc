@@ -244,3 +244,4 @@ http://cxd2014.github.io/2018/09/12/port-reuse/
 
 sock　ip修改
 https://www.cnblogs.com/s7vens/archive/2012/04/12/2444216.html
+https://man.cx/ip(7)/zh_CN
