@@ -241,3 +241,6 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html#sec13.5.1
 
 端口复用:
 http://cxd2014.github.io/2018/09/12/port-reuse/
+
+sock　ip修改
+https://www.cnblogs.com/s7vens/archive/2012/04/12/2444216.html
