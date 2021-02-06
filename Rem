@@ -54,3 +54,8 @@ apt -a show org.wireshark.wireshark
 
 
 17. binary.write时　　带有 []byte类会失败
+
+
+18. golang map[key]value 的key不能为复杂结构体(含有嵌套结构体)
+
+19. golang Conn.File()每次返回的是一个dup的文件句柄，每次都描述值fd不一样，但是指向同一文件
