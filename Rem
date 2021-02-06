@@ -59,3 +59,5 @@ apt -a show org.wireshark.wireshark
 18. golang map[key]value 的key不能为复杂结构体(含有嵌套结构体)
 
 19. golang Conn.File()每次返回的是一个dup的文件句柄，每次都描述值fd不一样，但是指向同一文件
+
+20. 重新实现的Writer和Reader在调用 io.Copy时，需根据buf指定返回int字节，否则长度不同，报short write
