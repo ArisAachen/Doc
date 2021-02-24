@@ -252,3 +252,7 @@ https://www.jianshu.com/p/50405e326127
 linux net模块：
 https://elixir.bootlin.com/linux/v5.10.12/source/net
 https://blog.51cto.com/weiguozhihui/1584894
+
+
+ptrace:
+https://driverxdw.github.io/2020/07/06/Linux-ptrace-so%E5%BA%93%E6%B3%A8%E5%85%A5%E5%88%86%E6%9E%90/
