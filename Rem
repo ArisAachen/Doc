@@ -62,4 +62,6 @@ apt -a show org.wireshark.wireshark
 
 20. 重新实现的Writer和Reader在调用 io.Copy时，需根据buf指定返回int字节，否则长度不同，报short write
 
-10.findmnt -t cgroup2 -n -o TARGET
+21.findmnt -t cgroup2 -n -o TARGET
+
+22. golang包的sort.SearchInts　　当第二个元素为0时会出错
