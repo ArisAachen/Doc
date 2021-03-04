@@ -65,3 +65,5 @@ apt -a show org.wireshark.wireshark
 21.findmnt -t cgroup2 -n -o TARGET
 
 22. golang包的sort.SearchInts　　当第二个元素为0时会出错
+
+23. result := reflect.AppendSlice(front, back)  导致src出错
