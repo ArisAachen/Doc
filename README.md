@@ -273,3 +273,7 @@ http://www.study-area.org/tips//2.4routing/2.4routing-big5-21.html
 cap:
 https://www.onitroad.com/jc/linux/man-pages/linux/man2/prctl.2.html
 https://github.com/tianon/debian-golang-gocapability
+
+go listener close issue:
+https://stackoverflow.com/questions/28967701/golang-tcp-socket-cant-close-after-get-file
+
