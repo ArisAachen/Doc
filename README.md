@@ -277,3 +277,6 @@ https://github.com/tianon/debian-golang-gocapability
 go listener close issue:
 https://stackoverflow.com/questions/28967701/golang-tcp-socket-cant-close-after-get-file
 
+
+802.11
+https://zhuanlan.zhihu.com/p/31710770
