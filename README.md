@@ -285,3 +285,6 @@ https://www.zhihu.com/people/edward_xu/posts?page=5
 
 wireshark:
 https://dalewifisec.wordpress.com/2014/04/29/wireshark-802-11-display-filters-2/
+
+disconnect reason
+http://www.emcu.eu/wifi-802-11-association-disassociation-reason-code/
