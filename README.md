@@ -290,3 +290,5 @@ https://dalewifisec.wordpress.com/2014/04/29/wireshark-802-11-display-filters-2/
 
 disconnect reason
 http://www.emcu.eu/wifi-802-11-association-disassociation-reason-code/
+https://support.google.com/chrome/a/answer/7172038?hl=en#zippy=%2Cdeauthentication-reason-codes
+https://forum.mikrotik.com/viewtopic.php?t=4015
