@@ -167,6 +167,7 @@ https://ir.nctu.edu.tw/handle/11536/77766
 https://support.huawei.com/enterprise/zh/doc/EDOC1100086515
 https://blog.csdn.net/sinat_20059415/article/details/88360493
 https://blog.csdn.net/u012503786/article/details/79292211
+https://www.ieee802.org/1/files/public/MIBs/802-1x-2001-mib.txt
 
 802-1.x DCF:
 https://blog.csdn.net/LIN_SHUQING
