@@ -296,3 +296,4 @@ http://www.emcu.eu/wifi-802-11-association-disassociation-reason-code/
 https://support.google.com/chrome/a/answer/7172038?hl=en#zippy=%2Cdeauthentication-reason-codes
 https://forum.mikrotik.com/viewtopic.php?t=4015
 https://www.rfwireless-world.com/Terminology/WLAN-class1-class2-class3-frames.html
+https://www.iith.ac.in/~tbr/teaching/docs/802.11-2007.pdf
