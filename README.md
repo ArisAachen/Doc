@@ -170,6 +170,8 @@ https://blog.csdn.net/u012503786/article/details/79292211
 https://www.ieee802.org/1/files/public/MIBs/802-1x-2001-mib.txt
 https://blog.csdn.net/banruoju/article/details/78050098
 https://tools.ietf.org/html/rfc4137
+https://wifininjas.net/2019/08/23/wn-blog-012-can-you-crack-802-1x-wpa2-enterprise-wireless-data/
+
 
 802-1.x DCF:
 https://blog.csdn.net/LIN_SHUQING
