@@ -7,6 +7,9 @@
 epoll详细讲解：
 https://zhuanlan.zhihu.com/p/63179839
 
+多路复用：
+https://mp.weixin.qq.com/s?__biz=Mzk0MjE3NDE0Ng==&mid=2247494866&idx=1&sn=0ebeb60dbc1fd7f9473943df7ce5fd95&chksm=c2c5967ff5b21f69030636334f6a5a7dc52c0f4de9b668f7bac15b2c1a2660ae533dd9878c7c&scene=178&cur_album_id=1703494881072955395#rd
+
 EPOLL 事件之 EPOLLRDHUP:
 https://blog.csdn.net/midion9/article/details/49883063
 
