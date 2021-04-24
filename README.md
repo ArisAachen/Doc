@@ -175,6 +175,9 @@ https://blog.csdn.net/banruoju/article/details/78050098
 https://tools.ietf.org/html/rfc4137
 https://wifininjas.net/2019/08/23/wn-blog-012-can-you-crack-802-1x-wpa2-enterprise-wireless-data/
 
+下一代工业通信—TSN（时间敏感网络），工业物联网的助推器:QCA
+https://www.sdnlab.com/22868.html
+
 state-machine:
 https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/414075
 
