@@ -296,6 +296,9 @@ https://stackoverflow.com/questions/28967701/golang-tcp-socket-cant-close-after-
 https://zhuanlan.zhihu.com/p/31710770
 https://www.zhihu.com/people/edward_xu/posts?page=5
 
+漫游off-channel调优
+https://www.wi-fi.org/knowledge-center/faq/what-is-off-channel-scanning-for-wi-fi-client-devices
+
 
 wireshark:
 https://dalewifisec.wordpress.com/2014/04/29/wireshark-802-11-display-filters-2/
