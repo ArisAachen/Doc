@@ -179,6 +179,8 @@ https://wifininjas.net/2019/08/23/wn-blog-012-can-you-crack-802-1x-wpa2-enterpri
 https://www.sdnlab.com/22868.html
 TSN相关协议标准
 https://www.pianshen.com/article/67271412154/
+beacon帧字段结构——VHT字段总结
+https://blog.csdn.net/dxm809/article/details/106855049
 
 state-machine:
 https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/414075
