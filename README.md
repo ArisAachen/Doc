@@ -316,3 +316,6 @@ https://support.google.com/chrome/a/answer/7172038?hl=en#zippy=%2Cdeauthenticati
 https://forum.mikrotik.com/viewtopic.php?t=4015
 https://www.rfwireless-world.com/Terminology/WLAN-class1-class2-class3-frames.html
 https://www.iith.ac.in/~tbr/teaching/docs/802.11-2007.pdf
+
+网络驱动程序接口规范:
+https://zh.wikipedia.org/wiki/%E7%B6%B2%E7%B5%A1%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2%E8%A6%8F%E7%AF%84
