@@ -319,3 +319,6 @@ https://www.iith.ac.in/~tbr/teaching/docs/802.11-2007.pdf
 
 网络驱动程序接口规范:
 https://zh.wikipedia.org/wiki/%E7%B6%B2%E7%B5%A1%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2%E8%A6%8F%E7%AF%84
+
+nl80211.h:
+https://lxr.openwrt.org/source/iwinfo/api/nl80211.h#L1797
