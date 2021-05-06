@@ -322,3 +322,6 @@ https://zh.wikipedia.org/wiki/%E7%B6%B2%E7%B5%A1%E9%A9%85%E5%8B%95%E7%A8%8B%E5%B
 
 nl80211.h:
 https://lxr.openwrt.org/source/iwinfo/api/nl80211.h#L1797
+
+[WiFi] WiFi 網路下的省電模式 (Power Saving Mode):
+https://note-on-clouds.blogspot.com/2019/02/wifi-power-saving-mode.html
