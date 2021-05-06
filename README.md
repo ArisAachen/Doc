@@ -325,3 +325,6 @@ https://lxr.openwrt.org/source/iwinfo/api/nl80211.h#L1797
 
 [WiFi] WiFi 網路下的省電模式 (Power Saving Mode):
 https://note-on-clouds.blogspot.com/2019/02/wifi-power-saving-mode.html
+
+802.11协议精读10：节能模式（PSM）:
+https://zhuanlan.zhihu.com/p/21623985
