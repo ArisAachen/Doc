@@ -328,3 +328,7 @@ https://note-on-clouds.blogspot.com/2019/02/wifi-power-saving-mode.html
 
 802.11协议精读10：节能模式（PSM）:
 https://zhuanlan.zhihu.com/p/21623985
+
+
+BLE HID简介:
+https://blog.csdn.net/pig10086/article/details/71248971
