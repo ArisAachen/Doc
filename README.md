@@ -343,3 +343,6 @@ https://blog.csdn.net/yk150915/article/details/86500055
 
 传统蓝牙HCI搜索流程介绍（bluetooth inquiry）
 https://blog.csdn.net/XiaoXiaoPengBo/article/details/107788045
+
+linux之C socket常见错误代码
+https://www.cnblogs.com/heych/p/12582912.html
