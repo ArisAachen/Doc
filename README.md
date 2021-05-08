@@ -332,3 +332,7 @@ https://zhuanlan.zhihu.com/p/21623985
 
 BLE HID简介:
 https://blog.csdn.net/pig10086/article/details/71248971
+
+
+bluetooth开发:
+https://docs.lantronix.com/products/xpico-200/ug/3.1/bluetooth/
