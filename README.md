@@ -340,3 +340,6 @@ https://docs.lantronix.com/products/xpico-200/ug/3.1/bluetooth/
 
 经典蓝牙（BR/EDR）设备连接过程分析:
 https://blog.csdn.net/yk150915/article/details/86500055
+
+传统蓝牙HCI搜索流程介绍（bluetooth inquiry）
+https://blog.csdn.net/XiaoXiaoPengBo/article/details/107788045
