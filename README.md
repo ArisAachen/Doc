@@ -336,3 +336,7 @@ https://blog.csdn.net/pig10086/article/details/71248971
 
 bluetooth开发:
 https://docs.lantronix.com/products/xpico-200/ug/3.1/bluetooth/
+
+
+经典蓝牙（BR/EDR）设备连接过程分析:
+https://blog.csdn.net/yk150915/article/details/86500055
