@@ -346,3 +346,7 @@ https://blog.csdn.net/XiaoXiaoPengBo/article/details/107788045
 
 linux之C socket常见错误代码
 https://www.cnblogs.com/heych/p/12582912.html
+
+
+Glib学习（23） IO通道 IO Channels
+https://blog.csdn.net/andylauren/article/details/91046266
