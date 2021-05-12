@@ -350,3 +350,6 @@ https://www.cnblogs.com/heych/p/12582912.html
 
 Glib学习（23） IO通道 IO Channels
 https://blog.csdn.net/andylauren/article/details/91046266
+
+蓝牙协议分析(6)_BLE地址类型
+http://www.wowotech.net/bluetooth/ble_address_type.html
