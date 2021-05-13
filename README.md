@@ -353,3 +353,6 @@ https://blog.csdn.net/andylauren/article/details/91046266
 
 蓝牙协议分析(6)_BLE地址类型
 http://www.wowotech.net/bluetooth/ble_address_type.html
+
+Logical Link Control and Adaptation Protocol
+https://www.amd.e-technik.uni-rostock.de/ma/gol/lectures/wirlec/bluetooth_info/l2cap.html
