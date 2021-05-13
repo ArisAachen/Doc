@@ -356,3 +356,6 @@ http://www.wowotech.net/bluetooth/ble_address_type.html
 
 Logical Link Control and Adaptation Protocol
 https://www.amd.e-technik.uni-rostock.de/ma/gol/lectures/wirlec/bluetooth_info/l2cap.html
+
+linux下bluetooth编程（四）L2CAP层编程
+https://developer.aliyun.com/article/254941
