@@ -359,3 +359,6 @@ https://www.amd.e-technik.uni-rostock.de/ma/gol/lectures/wirlec/bluetooth_info/l
 
 linux下bluetooth编程（四）L2CAP层编程
 https://developer.aliyun.com/article/254941
+
+程式設計師技術分享
+https://kknews.cc/zh-tw/digital/5g65jj2.html
