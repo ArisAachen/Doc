@@ -362,3 +362,6 @@ https://developer.aliyun.com/article/254941
 
 程式設計師技術分享
 https://kknews.cc/zh-tw/digital/5g65jj2.html
+
+Deauthentication Reason Code Table:
+https://www.cisco.com/assets/sol/sb/WAP371_Emulators/WAP371_Emulator_v1-0-1-5/help/Apx_ReasonCodes2.html
