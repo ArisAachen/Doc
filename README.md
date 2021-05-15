@@ -368,3 +368,6 @@ https://www.cisco.com/assets/sol/sb/WAP371_Emulators/WAP371_Emulator_v1-0-1-5/he
 
 Openwirt wifi scan:
 https://openwrt.org/docs/guide-user/network/wifi/wifi_countrycode
+
+CRDA  wireless-regdb:
+https://wireless.wiki.kernel.org/en/developers/Regulatory#crda
