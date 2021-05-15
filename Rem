@@ -69,3 +69,5 @@ apt -a show org.wireshark.wireshark
 23. result := reflect.AppendSlice(front, back)  导致src出错
 
 24: sudo iw reg get
+
+25. #ethtool -i ethx 查看网卡信息
