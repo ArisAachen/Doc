@@ -371,3 +371,6 @@ https://openwrt.org/docs/guide-user/network/wifi/wifi_countrycode
 
 CRDA  wireless-regdb:
 https://wireless.wiki.kernel.org/en/developers/Regulatory#crda
+
+WIFI基本知识整理:
+http://blog.chinaunix.net/uid-9525959-id-3326047.html
