@@ -380,3 +380,6 @@ https://howiwifi.com/2020/07/13/802-11-frame-types-and-formats/
 
 802.11 Frame Types:
 https://en.wikipedia.org/wiki/802.11_Frame_Types
+
+一种信道选择方法及设备:
+https://patents.google.com/patent/WO2018098913A1/zh
