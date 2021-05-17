@@ -374,3 +374,9 @@ https://wireless.wiki.kernel.org/en/developers/Regulatory#crda
 
 WIFI基本知识整理:
 http://blog.chinaunix.net/uid-9525959-id-3326047.html
+
+802.11 Frame Types and Formats:
+https://howiwifi.com/2020/07/13/802-11-frame-types-and-formats/
+
+802.11 Frame Types:
+https://en.wikipedia.org/wiki/802.11_Frame_Types
