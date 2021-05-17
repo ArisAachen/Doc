@@ -383,3 +383,7 @@ https://en.wikipedia.org/wiki/802.11_Frame_Types
 
 一种信道选择方法及设备:
 https://patents.google.com/patent/WO2018098913A1/zh
+
+
+蓝牙inquiry流程之HCI_Inquiry_Result_With_RSSI和HCI Extended Inquiry Result处理
+https://www.cnblogs.com/libs-liu/p/9243500.html
