@@ -387,3 +387,7 @@ https://patents.google.com/patent/WO2018098913A1/zh
 
 蓝牙inquiry流程之HCI_Inquiry_Result_With_RSSI和HCI Extended Inquiry Result处理
 https://www.cnblogs.com/libs-liu/p/9243500.html
+
+
+802.11 学习笔记
+https://www.binss.me/blog/notes-of-802.11-protocal/
