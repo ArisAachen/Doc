@@ -391,3 +391,7 @@ https://www.cnblogs.com/libs-liu/p/9243500.html
 
 802.11 学习笔记
 https://www.binss.me/blog/notes-of-802.11-protocal/
+
+
+linux Wireless基础知识(cfg80211 mac80211 nl80211)
+https://blog.csdn.net/liuxd3000/article/details/23761663
