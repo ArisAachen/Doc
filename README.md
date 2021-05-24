@@ -395,3 +395,6 @@ https://www.binss.me/blog/notes-of-802.11-protocal/
 
 linux Wireless基础知识(cfg80211 mac80211 nl80211)
 https://blog.csdn.net/liuxd3000/article/details/23761663
+
+理解Linux虚拟网卡设备tun/tap的一切
+https://www.junmajinlong.com/virtual/network/all_about_tun_tap/
