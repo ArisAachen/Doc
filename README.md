@@ -404,3 +404,6 @@ https://www.cnblogs.com/bakari/p/10450711.html
 
 Linux进程管理之task_struct结构体
 https://www.cnblogs.com/zxc2man/p/6649771.html
+
+编写Linux内核模块
+http://juniorprincewang.github.io/2018/11/16/%E7%BC%96%E5%86%99Linux%E5%86%85%E6%A0%B8%E6%A8%A1%E5%9D%97/
