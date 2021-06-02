@@ -410,3 +410,9 @@ http://juniorprincewang.github.io/2018/11/16/%E7%BC%96%E5%86%99Linux%E5%86%85%E6
 
 讲解：什么是代理服务器？和VPN有什么区别？
 https://www.zhihu.com/zvideo/1380214194034274307
+
+I/O 也能虛擬化？
+https://www.aiotcloud.net/media/singl.php?aid=343
+
+Single Root I/O Virtualization (SR-IOV) 介紹
+https://note-on-clouds.blogspot.com/2020/12/intro-sriov.html
