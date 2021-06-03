@@ -416,3 +416,6 @@ https://www.aiotcloud.net/media/singl.php?aid=343
 
 Single Root I/O Virtualization (SR-IOV) 介紹
 https://note-on-clouds.blogspot.com/2020/12/intro-sriov.html
+
+浅谈Linux Namespace机制（一）
+https://zhuanlan.zhihu.com/p/73248894
