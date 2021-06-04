@@ -443,3 +443,6 @@ https://developer.harmonyos.com/cn/docs/documentation/doc-guides/basic-fundament
 
 基于Linux的QoS编程接口研究与分析
 http://blog.sina.com.cn/s/articlelist_1450534375_0_1.html
+
+Netlink 库 -- 官方开发者教程中文版第六部分
+http://blog.guorongfei.com/2015/02/12/libnl-translation-part6/
