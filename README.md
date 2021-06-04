@@ -440,3 +440,6 @@ https://blog.csdn.net/kuangyufei?spm=1001.2014.3001.5509
 
 鸿蒙开发手册
 https://developer.harmonyos.com/cn/docs/documentation/doc-guides/basic-fundamentals-0000000000041611
+
+基于Linux的QoS编程接口研究与分析
+http://blog.sina.com.cn/s/articlelist_1450534375_0_1.html
