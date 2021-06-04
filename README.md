@@ -428,3 +428,6 @@ https://www.cnblogs.com/gunxiaoshi/p/10336465.html
 
 IPv6隐私地址
 https://blog.csdn.net/sinat_20184565/article/details/114292301
+
+IPv6隐私地址
+https://www.zhihu.com/question/316884179/answer/1305438328
