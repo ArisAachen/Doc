@@ -422,3 +422,6 @@ https://zhuanlan.zhihu.com/p/73248894
 
 netlink
 https://manpages.debian.org/testing/manpages-zh/netlink.7.zh_TW.html
+
+IPv6特性，以及SLAAC过程
+https://www.cnblogs.com/gunxiaoshi/p/10336465.html
