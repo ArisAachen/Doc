@@ -437,3 +437,6 @@ https://www.bilibili.com/video/BV1Mf4y1a7PZ?p=1&share_medium=android&share_plat=
 
 鸿蒙内核源码分析
 https://blog.csdn.net/kuangyufei?spm=1001.2014.3001.5509
+
+鸿蒙开发手册
+https://developer.harmonyos.com/cn/docs/documentation/doc-guides/basic-fundamentals-0000000000041611
