@@ -425,3 +425,6 @@ https://manpages.debian.org/testing/manpages-zh/netlink.7.zh_TW.html
 
 IPv6特性，以及SLAAC过程
 https://www.cnblogs.com/gunxiaoshi/p/10336465.html
+
+IPv6隐私地址
+https://blog.csdn.net/sinat_20184565/article/details/114292301
