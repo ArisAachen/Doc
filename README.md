@@ -431,3 +431,6 @@ https://blog.csdn.net/sinat_20184565/article/details/114292301
 
 IPv6隐私地址
 https://www.zhihu.com/question/316884179/answer/1305438328
+
+OpenHarmony鸿蒙内核Liteos-a最小系统移植教程(IMX6ULL开发板)
+https://www.bilibili.com/video/BV1Mf4y1a7PZ?p=1&share_medium=android&share_plat=android&share_source=WEIXIN&share_tag=s_i&timestamp=1622780378&unique_k=4XrOMQ
