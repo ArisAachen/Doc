@@ -450,3 +450,6 @@ http://blog.guorongfei.com/2015/02/12/libnl-translation-part6/
 
 BPF Compiler Collection (BCC)
 https://github.com/elfmaster/bcc
+
+Beacon时槽大小到底对路由器有什么影响？
+https://www.zhihu.com/question/27957352
