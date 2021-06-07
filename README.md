@@ -453,3 +453,6 @@ https://github.com/elfmaster/bcc
 
 Beacon时槽大小到底对路由器有什么影响？
 https://www.zhihu.com/question/27957352
+
+802.11协议精读4：PCF工作模式
+https://blog.csdn.net/rs_network/article/details/51174258
