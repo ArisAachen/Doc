@@ -456,3 +456,7 @@ https://www.zhihu.com/question/27957352
 
 802.11协议精读4：PCF工作模式
 https://blog.csdn.net/rs_network/article/details/51174258
+
+802.11 無線網路下具網路拓樸知覺的頻道掃描機制
+之設計與實作 
+https://ir.nctu.edu.tw/bitstream/11536/82117/1/559501.pdf
