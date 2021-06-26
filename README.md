@@ -477,3 +477,5 @@ https://e-mailky.github.io/2018-10-14-qca-wlan1
 qcacld安卓高通
 https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2/drivers?autodive=0%2F%2F%2F%2F%2F%2F%2F%2F%2F
 
+WCNSS_qcom_cfg.ini WIFI配置文件解析
+https://blog.csdn.net/xing176/article/details/90904480
