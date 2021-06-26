@@ -472,3 +472,8 @@ https://e-mailky.github.io/2016-12-15-mac8011
 
 高通AP10.4开发者指南(一)
 https://e-mailky.github.io/2018-10-14-qca-wlan1
+
+
+qcacld安卓高通
+https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2/drivers?autodive=0%2F%2F%2F%2F%2F%2F%2F%2F%2F
+
