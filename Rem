@@ -71,3 +71,7 @@ apt -a show org.wireshark.wireshark
 24: sudo iw reg get
 
 25. #ethtool -i ethx 查看网卡信息
+
+26. dpkg-deb -X backports-dkms_5.4.56_amd64.deb extract/
+dpkg-deb -e backports-dkms_5.4.56_amd64.deb extract/DEBIAN/
+dpkg-deb -b extract/ build/
