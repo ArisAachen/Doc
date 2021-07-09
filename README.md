@@ -479,3 +479,6 @@ https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2/drivers?autodiv
 
 WCNSS_qcom_cfg.ini WIFI配置文件解析
 https://blog.csdn.net/xing176/article/details/90904480
+
+linux ehtools提交
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=3f1ac7a700d039c61d8d8b99f28d605d489a60cf
