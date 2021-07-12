@@ -482,3 +482,6 @@ https://blog.csdn.net/xing176/article/details/90904480
 
 linux ehtools提交
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=3f1ac7a700d039c61d8d8b99f28d605d489a60cf
+
+openwrt:
+https://openwrt.org/toh/hwdata/lenovo/lenovo_newifi_mini_y1
