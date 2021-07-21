@@ -494,3 +494,6 @@ https://cpp.hotexamples.com/
 
 netlink介绍
 https://www.infradead.org/~tgr/libnl/doc/core.html
+
+操作系统 虚拟内存技术
+https://zhuanlan.zhihu.com/p/53004596
