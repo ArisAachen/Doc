@@ -500,3 +500,6 @@ https://zhuanlan.zhihu.com/p/53004596
 
 36张图详解网络基础知识
 https://zhuanlan.zhihu.com/p/364036628
+
+为原版Openwrt安装SSR-plus插件
+https://www.solarck.com/install-ssr-plus.html
