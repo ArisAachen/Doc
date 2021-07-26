@@ -503,3 +503,7 @@ https://zhuanlan.zhihu.com/p/364036628
 
 为原版Openwrt安装SSR-plus插件
 https://www.solarck.com/install-ssr-plus.html
+
+
+IPv4 Address Conflict Detection:
+https://datatracker.ietf.org/doc/html/rfc5227
