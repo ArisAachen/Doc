@@ -513,3 +513,6 @@ https://www.zhihu.com/question/267131496/answer/321033626
 
 猿大白@公众号「Linux云计算网络」
 https://www.cnblogs.com/bakari/
+
+虚拟机网络配置详解(NAT、桥接、Hostonly)
+https://www.jianshu.com/p/305f7384cfe9
