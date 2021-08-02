@@ -522,3 +522,7 @@ https://www.zhihu.com/question/23153437/answer/1962068242
 
 图示介绍DAS、NAS和SAN特点和区别是什么？加上iSCIS?
 https://www.zhihu.com/question/24335605/answer/27454928
+
+
+对象存储，为什么那么火？
+https://zhuanlan.zhihu.com/p/166289089
