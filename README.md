@@ -519,3 +519,6 @@ https://www.jianshu.com/p/305f7384cfe9
 
 有什么高质量的现代 C++ 风格的开源代码?
 https://www.zhihu.com/question/23153437/answer/1962068242
+
+图示介绍DAS、NAS和SAN特点和区别是什么？加上iSCIS?
+https://www.zhihu.com/question/24335605/answer/27454928
