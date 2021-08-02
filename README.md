@@ -516,3 +516,6 @@ https://www.cnblogs.com/bakari/
 
 虚拟机网络配置详解(NAT、桥接、Hostonly)
 https://www.jianshu.com/p/305f7384cfe9
+
+有什么高质量的现代 C++ 风格的开源代码?
+https://www.zhihu.com/question/23153437/answer/1962068242
