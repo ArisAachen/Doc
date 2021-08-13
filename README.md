@@ -526,3 +526,6 @@ https://www.zhihu.com/question/24335605/answer/27454928
 
 对象存储，为什么那么火？
 https://zhuanlan.zhihu.com/p/166289089
+
+cppCon:
+https://cppcon.org/
