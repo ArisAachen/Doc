@@ -533,3 +533,6 @@ https://cppcon.org/
 
 openwrt 防火墙_OpenWrt路由器网络配置详解，再也不用登陆web界面配置了
 https://blog.csdn.net/weixin_39547158/article/details/111284794
+
+Linux Network Interfaces
+https://openwrt.org/docs/guide-developer/networking/network.interfaces
