@@ -545,3 +545,6 @@ http://www.study-area.org/tips/adv-route/Adv-Routing-HOWTO.html#toc4
 
 Linux Networking-HOWTO
 https://tldp.org/HOWTO/NET3-4-HOWTO.html
+
+【LinuxC/C++】手写网络协议栈
+https://www.zhihu.com/zvideo/1360678132631146496
