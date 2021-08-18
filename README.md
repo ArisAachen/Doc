@@ -539,3 +539,6 @@ https://blog.csdn.net/weixin_39547158/article/details/111284794
 
 Linux Network Interfaces
 https://openwrt.org/docs/guide-developer/networking/network.interfaces
+
+路由学习
+http://www.study-area.org/tips/adv-route/Adv-Routing-HOWTO.html#toc4
