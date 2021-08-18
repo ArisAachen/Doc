@@ -542,3 +542,6 @@ https://openwrt.org/docs/guide-developer/networking/network.interfaces
 
 路由学习
 http://www.study-area.org/tips/adv-route/Adv-Routing-HOWTO.html#toc4
+
+Linux Networking-HOWTO
+https://tldp.org/HOWTO/NET3-4-HOWTO.html
