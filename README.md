@@ -554,3 +554,6 @@ https://feisky.gitbooks.io/sdn/content/
 
 BPF之巅--洞悉Linux系统和应用性能
 http://1.117.71.82/os/bpf%E4%B9%8B%E5%B7%85-%E6%B4%9E%E6%82%89linux%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%BA%94%E7%94%A8%E6%80%A7%E8%83%BD/
+
+太阁实验栈 一键解锁VRF知识架构
+https://zhuanlan.zhihu.com/p/76766951
