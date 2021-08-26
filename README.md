@@ -573,3 +573,6 @@ http://linux-ip.net/html/
 
 图解ARP协议（四）代理ARP：善意的欺骗
 https://zhuanlan.zhihu.com/p/28929126
+
+linux内核协议栈 netfilter 之 ip 层 netfilter 的 NAT 模块 hook 及 target 代码剖析
+https://blog.csdn.net/wangquan1992/article/details/109536849?spm=1001.2014.3001.5501
