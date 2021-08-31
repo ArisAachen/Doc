@@ -582,3 +582,6 @@ https://segmentfault.com/a/1190000009491002
 
 穷佐罗的Linux书
 https://zorrozou.github.io/docs/books/
+
+Difference between Bridge and Repeater
+https://www.geeksforgeeks.org/difference-between-bridge-and-repeater/
