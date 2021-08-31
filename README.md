@@ -579,3 +579,6 @@ https://blog.csdn.net/wangquan1992/article/details/109536849?spm=1001.2014.3001.
 
 Linux虚拟网络设备之bridge(桥)
 https://segmentfault.com/a/1190000009491002
+
+穷佐罗的Linux书
+https://zorrozou.github.io/docs/books/
