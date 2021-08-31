@@ -585,3 +585,6 @@ https://zorrozou.github.io/docs/books/
 
 Difference between Bridge and Repeater
 https://www.geeksforgeeks.org/difference-between-bridge-and-repeater/
+
+Wi-Fi extender / repeater / bridge configuration
+https://openwrt.org/docs/guide-user/network/wifi/relay_configuration
