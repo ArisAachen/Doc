@@ -594,3 +594,8 @@ https://asciiflow.com/#/
 
 WNR3500L+TOMATO网络结构分析
 https://www.it610.com/article/3856545.htm
+
+
+Wireless-to-Ethernet network bridging
+https://www.digi.com/resources/documentation/digidocs/embedded/dey/2.6/cc6/bsp_r_wifi-network-bridging_wpasupplicant
+https://www.digi.com/resources/documentation/digidocs/90001514/reference/yocto/r_network_bridging.htm
