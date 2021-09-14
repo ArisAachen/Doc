@@ -602,3 +602,6 @@ https://www.digi.com/resources/documentation/digidocs/90001514/reference/yocto/r
 
 Overlay网络
 https://pms.uniontech.com/zentao/bug-view-93954.html
+
+gdb 调试 Linux 内核网络源码（附视频）
+https://wenfh2020.com/2021/05/19/gdb-kernel-networking/
