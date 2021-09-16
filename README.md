@@ -605,3 +605,6 @@ https://pms.uniontech.com/zentao/bug-view-93954.html
 
 gdb 调试 Linux 内核网络源码（附视频）
 https://wenfh2020.com/2021/05/19/gdb-kernel-networking/
+
+Linux Without Wires The Basics of Bluetooth
+https://www.opensourceforu.com/2015/06/linux-without-wires-the-basics-of-bluetooth/#:~:text=BlueZ%20is%20a%20general-purpose%20Bluetooth%20stack%20that%20is,this%20software%20from%20http%3A%2F%2Fwww.bluez.org%2F%20in%20the%20development%20section
