@@ -620,3 +620,6 @@ https://github.com/omec-project/freediameter
 
 一个“蝇量级” C 语言协程库
 https://coolshell.cn/articles/10975.html?spm=a2c6h.12873639.0.0.29ed1933YNKLsg
+
+dbus实例讲解（二上）：消息和消息总线
+http://www.fmddlmyy.cn/text52.html
