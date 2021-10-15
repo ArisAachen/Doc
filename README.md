@@ -623,3 +623,6 @@ https://coolshell.cn/articles/10975.html?spm=a2c6h.12873639.0.0.29ed1933YNKLsg
 
 dbus实例讲解（二上）：消息和消息总线
 http://www.fmddlmyy.cn/text52.html
+
+给忙碌者的5G基础知识课（十七）——神奇的OFDM
+https://zhuanlan.zhihu.com/p/97700751
