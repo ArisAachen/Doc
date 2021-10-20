@@ -629,3 +629,6 @@ https://zhuanlan.zhihu.com/p/97700751
 
 网络协议精解
 https://blog.csdn.net/u011130578/article/details/44181503?spm=1001.2014.3001.5502
+
+《深入理解Linux网络技术内幕》阅读笔记 --- 路由查找
+https://www.cnblogs.com/YaoDD/p/7132249.html
