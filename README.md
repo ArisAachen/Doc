@@ -635,3 +635,6 @@ https://www.cnblogs.com/YaoDD/p/7132249.html
 
 PegasusWang 的读书杂记
 https://pegasuswang.readthedocs.io/zh/latest/
+
+如何快速搭建自己的博客平台
+https://zhuanlan.zhihu.com/p/109382792
