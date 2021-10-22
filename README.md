@@ -638,3 +638,6 @@ https://pegasuswang.readthedocs.io/zh/latest/
 
 如何快速搭建自己的博客平台
 https://zhuanlan.zhihu.com/p/109382792
+
+LC-trie 快速路由查找算法
+https://ggaaooppeenngg.github.io/zh-CN/2017/09/05/LC-trie-%E5%BF%AB%E9%80%9F%E8%B7%AF%E7%94%B1%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/
