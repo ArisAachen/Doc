@@ -643,3 +643,6 @@ https://zhuanlan.zhihu.com/p/109382792
 
 LC-trie 快速路由查找算法
 https://ggaaooppeenngg.github.io/zh-CN/2017/09/05/LC-trie-%E5%BF%AB%E9%80%9F%E8%B7%AF%E7%94%B1%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/
+
+Three ways to set wireless interface to Monitor mode and Managed mode       
+https://miloserdov.org/?p=126    
