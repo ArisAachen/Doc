@@ -649,3 +649,7 @@ https://miloserdov.org/?p=126
 
 Analyzing Wireless Packet Captures
 https://documentation.meraki.com/General_Administration/Tools_and_Troubleshooting/Analyzing_Wireless_Packet_Captures   
+
+
+深入理解Android：Wi-Fi、NFC和GPS卷（完整版）         
+https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413623      
