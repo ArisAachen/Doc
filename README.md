@@ -655,3 +655,6 @@ https://documentation.meraki.com/General_Administration/Tools_and_Troubleshootin
 
 深入理解Android：Wi-Fi、NFC和GPS卷（完整版）         
 https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413623      
+
+QQ
+https://marketplace.visualstudio.com/items?itemName=takayama.vscode-qq
