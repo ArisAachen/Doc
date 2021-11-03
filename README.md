@@ -55,18 +55,20 @@ sshuttle全局代理的实现简析
 https://blog.csdn.net/cnsword/article/details/16994059
 
 iptables:
-https://www.cnblogs.com/liang2580/articles/8400140.html
-https://arthurchiao.art/blog/deep-dive-into-iptables-and-netfilter-arch-zh/
-http://www.zsythink.net/archives/tag/iptables/
-https://www.yuanguohuo.com/2019/01/22/libnetfilter-queue/
-https://blog.csdn.net/jiatingqiang/article/details/6536017
-https://www.cnblogs.com/qxxnxxFight/p/11002065.html
-http proxy:https://imququ.com/post/web-proxy.html
-https://blog.csdn.net/stonesharp/article/details/27091391
+https://www.cnblogs.com/liang2580/articles/8400140.html               
+https://arthurchiao.art/blog/deep-dive-into-iptables-and-netfilter-arch-zh/             
+http://www.zsythink.net/archives/tag/iptables/               
+https://www.yuanguohuo.com/2019/01/22/libnetfilter-queue/           
+https://blog.csdn.net/jiatingqiang/article/details/6536017             
+https://www.cnblogs.com/qxxnxxFight/p/11002065.html             
+http proxy:https://imququ.com/post/web-proxy.html              
+https://blog.csdn.net/stonesharp/article/details/27091391        
+iptables conntrack:        
+https://ipset.netfilter.org/iptables-extensions.man.html          
 
 iptables pid out of date:
-https://ubuntuforums.org/showthread.php?t=1591433
-https://stackoverflow.com/questions/4314163/create-iptables-rule-per-process-service
+https://ubuntuforums.org/showthread.php?t=1591433          
+https://stackoverflow.com/questions/4314163/create-iptables-rule-per-process-service         
 
 socks5
 https://www.cnblogs.com/yinzhengjie/p/7357860.html
