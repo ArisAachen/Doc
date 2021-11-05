@@ -600,45 +600,45 @@ WNR3500L+TOMATO网络结构分析
 https://www.it610.com/article/3856545.htm
 
 
-Wireless-to-Ethernet network bridging
-https://www.digi.com/resources/documentation/digidocs/embedded/dey/2.6/cc6/bsp_r_wifi-network-bridging_wpasupplicant
-https://www.digi.com/resources/documentation/digidocs/90001514/reference/yocto/r_network_bridging.htm
+Wireless-to-Ethernet network bridging              
+https://www.digi.com/resources/documentation/digidocs/embedded/dey/2.6/cc6/bsp_r_wifi-network-bridging_wpasupplicant              
+https://www.digi.com/resources/documentation/digidocs/90001514/reference/yocto/r_network_bridging.htm           
 
-Overlay网络
-https://pms.uniontech.com/zentao/bug-view-93954.html
+Overlay网络             
+https://pms.uniontech.com/zentao/bug-view-93954.html             
 
-gdb 调试 Linux 内核网络源码（附视频）
-https://wenfh2020.com/2021/05/19/gdb-kernel-networking/
+gdb 调试 Linux 内核网络源码（附视频）          
+https://wenfh2020.com/2021/05/19/gdb-kernel-networking/             
 
-Linux Without Wires The Basics of Bluetooth
-https://www.opensourceforu.com/2015/06/linux-without-wires-the-basics-of-bluetooth/#:~:text=BlueZ%20is%20a%20general-purpose%20Bluetooth%20stack%20that%20is,this%20software%20from%20http%3A%2F%2Fwww.bluez.org%2F%20in%20the%20development%20section
+Linux Without Wires The Basics of Bluetooth           
+https://www.opensourceforu.com/2015/06/linux-without-wires-the-basics-of-bluetooth/#:~:text=BlueZ%20is%20a%20general-purpose%20Bluetooth%20stack%20that%20is,this%20software%20from%20http%3A%2F%2Fwww.bluez.org%2F%20in%20the%20development%20section         
 
-高级I/O之STREAMS
-https://www.cnblogs.com/nufangrensheng/p/3556555.html
+高级I/O之STREAMS              
+https://www.cnblogs.com/nufangrensheng/p/3556555.html            
 
-TCP/IP Programming Interfaces Guide
-https://redhawk.concurrent-rt.com/docs/root/2PowerMAX/Network/0890468-000.pdf
+TCP/IP Programming Interfaces Guide            
+https://redhawk.concurrent-rt.com/docs/root/2PowerMAX/Network/0890468-000.pdf         
 
-diameter协议
-https://github.com/omec-project/freediameter
+diameter协议       
+https://github.com/omec-project/freediameter           
 
-一个“蝇量级” C 语言协程库
-https://coolshell.cn/articles/10975.html?spm=a2c6h.12873639.0.0.29ed1933YNKLsg
+一个“蝇量级” C 语言协程库          
+https://coolshell.cn/articles/10975.html?spm=a2c6h.12873639.0.0.29ed1933YNKLsg           
 
-dbus实例讲解（二上）：消息和消息总线
-http://www.fmddlmyy.cn/text52.html
+dbus实例讲解（二上）：消息和消息总线             
+http://www.fmddlmyy.cn/text52.html            
 
-给忙碌者的5G基础知识课（十七）——神奇的OFDM
-https://zhuanlan.zhihu.com/p/97700751
+给忙碌者的5G基础知识课（十七）——神奇的OFDM            
+https://zhuanlan.zhihu.com/p/97700751             
 
-网络协议精解
-https://blog.csdn.net/u011130578/article/details/44181503?spm=1001.2014.3001.5502
+网络协议精解                   
+https://blog.csdn.net/u011130578/article/details/44181503?spm=1001.2014.3001.5502             
 
-《深入理解Linux网络技术内幕》阅读笔记 --- 路由查找
-https://www.cnblogs.com/YaoDD/p/7132249.html
+《深入理解Linux网络技术内幕》阅读笔记 --- 路由查找           
+https://www.cnblogs.com/YaoDD/p/7132249.html            
 
-PegasusWang 的读书杂记
-https://pegasuswang.readthedocs.io/zh/latest/
+PegasusWang 的读书杂记               
+https://pegasuswang.readthedocs.io/zh/latest/          
 
 如何快速搭建自己的博客平台
 https://zhuanlan.zhihu.com/p/109382792
@@ -646,7 +646,7 @@ https://zhuanlan.zhihu.com/p/109382792
 LC-trie 快速路由查找算法
 https://ggaaooppeenngg.github.io/zh-CN/2017/09/05/LC-trie-%E5%BF%AB%E9%80%9F%E8%B7%AF%E7%94%B1%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/
 
-Three ways to set wireless interface to Monitor mode and Managed mode       
+Three ways to set wireless interface to Monitor mode and Managed mode        
 https://miloserdov.org/?p=126    
 
 Analyzing Wireless Packet Captures
@@ -656,5 +656,8 @@ https://documentation.meraki.com/General_Administration/Tools_and_Troubleshootin
 深入理解Android：Wi-Fi、NFC和GPS卷（完整版）         
 https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413623      
 
-QQ
-https://marketplace.visualstudio.com/items?itemName=takayama.vscode-qq
+QQ          
+https://marketplace.visualstudio.com/items?itemName=takayama.vscode-qq       
+
+你读过的最好的 C++ 开源代码是什么？  
+https://www.zhihu.com/question/21376384/answer/1925233838       
