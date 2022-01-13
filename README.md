@@ -683,3 +683,6 @@ https://zhuanlan.zhihu.com/p/54890424
 
 Linux网络包收发总体过程   
 https://zhuanlan.zhihu.com/p/454061745
+
+系统调用的实现细节(核心态)   
+https://zhuanlan.zhihu.com/p/34066448
