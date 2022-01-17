@@ -686,3 +686,6 @@ https://zhuanlan.zhihu.com/p/454061745
 
 系统调用的实现细节(核心态)   
 https://zhuanlan.zhihu.com/p/34066448
+
+嵌入式Linux——uevent机制：uevent原理分析        
+https://blog.csdn.net/W1107101310/article/details/80211885
