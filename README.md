@@ -692,3 +692,6 @@ https://blog.csdn.net/W1107101310/article/details/80211885
 
 初识linux输入子系统     
 https://www.cnblogs.com/lcw/p/3293302.html
+
+Linux 进程、线程、文件描述符的底层原理       
+https://zhuanlan.zhihu.com/p/105086274
