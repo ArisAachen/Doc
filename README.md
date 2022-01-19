@@ -695,3 +695,6 @@ https://www.cnblogs.com/lcw/p/3293302.html
 
 Linux 进程、线程、文件描述符的底层原理       
 https://zhuanlan.zhihu.com/p/105086274
+
+通俗易懂和你聊聊寄存器那些事(精美图文)   
+https://blog.csdn.net/qq_36894974/article/details/109089536
