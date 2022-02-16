@@ -711,3 +711,6 @@ http://acl-dev.github.io/acl/FAQ.html
 
 C++11新特性7 - 正则表达式.   
 https://zhuanlan.zhihu.com/p/112219748
+
+Linux 进程、线程、文件描述符的底层原理   
+https://zhuanlan.zhihu.com/p/105086274
