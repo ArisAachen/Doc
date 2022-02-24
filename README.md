@@ -713,4 +713,7 @@ C++11新特性7 - 正则表达式.
 https://zhuanlan.zhihu.com/p/112219748
 
 Linux 进程、线程、文件描述符的底层原理   
-https://zhuanlan.zhihu.com/p/105086274
+https://zhuanlan.zhihu.com/p/105086274 
+
+pthread_cond_wait 为什么需要传递 mutex 参数？   
+https://www.zhihu.com/question/24116967
