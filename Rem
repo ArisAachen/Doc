@@ -75,3 +75,6 @@ apt -a show org.wireshark.wireshark
 26. dpkg-deb -X backports-dkms_5.4.56_amd64.deb extract/
 dpkg-deb -e backports-dkms_5.4.56_amd64.deb extract/DEBIAN/
 dpkg-deb -b extract/ build/
+
+27. vtable报错  一般是虚函数表错误   是由于某个函数的子函数没有实现父类的方法
+
