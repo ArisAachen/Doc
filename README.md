@@ -717,3 +717,6 @@ https://zhuanlan.zhihu.com/p/105086274
 
 pthread_cond_wait 为什么需要传递 mutex 参数？   
 https://www.zhihu.com/question/24116967
+
+A list of open source C++ libraries  
+https://en.cppreference.com/w/cpp/links/libs
