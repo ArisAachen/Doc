@@ -723,3 +723,6 @@ https://en.cppreference.com/w/cpp/links/libs
 
 Arking     
 https://arkingc.github.io/categories/Docker/
+
+Building a container by hand using namespaces: The mount namespace   
+https://www.redhat.com/sysadmin/mount-namespaces
