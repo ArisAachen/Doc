@@ -729,3 +729,6 @@ https://www.redhat.com/sysadmin/mount-namespaces
 
 STL快速入门   
 http://c.biancheng.net/stl/
+
+rust编程  
+https://kaisery.github.io/trpl-zh-cn/ch01-03-hello-cargo.html
