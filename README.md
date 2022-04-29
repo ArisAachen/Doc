@@ -735,3 +735,6 @@ https://kaisery.github.io/trpl-zh-cn/ch01-03-hello-cargo.html
 
 Mock 测试
 https://www.jianshu.com/p/640afc43f5ed
+
+全网首发！！C++20新特性全在这一张图里了 
+https://blog.csdn.net/weixin_41055260/article/details/115388490?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1.pc_relevant_default&utm_relevant_index=1
