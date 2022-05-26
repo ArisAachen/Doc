@@ -741,3 +741,6 @@ https://blog.csdn.net/weixin_41055260/article/details/115388490?spm=1001.2101.30
 
 Libevent官方  
 https://www.kancloud.cn/aceld/libevent_aceld/1858549
+
+Cookie/Session 的机制与安全   
+https://harttle.land/2015/08/10/cookie-session.html
