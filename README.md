@@ -747,3 +747,6 @@ https://harttle.land/2015/08/10/cookie-session.html
 
 《100个gdb小技巧》     
 https://wizardforcel.gitbooks.io/100-gdb-tips/content/index.html
+
+Linux C编程一站式学习:    
+https://akaedu.github.io/book/   
