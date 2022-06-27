@@ -750,3 +750,6 @@ https://wizardforcel.gitbooks.io/100-gdb-tips/content/index.html
 
 Linux C编程一站式学习:    
 https://akaedu.github.io/book/   
+
+Assembler Directives   
+http://web.mit.edu/gnu/doc/html/as_7.html
