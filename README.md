@@ -753,3 +753,6 @@ https://akaedu.github.io/book/
 
 Assembler Directives   
 http://web.mit.edu/gnu/doc/html/as_7.html
+
+我的经验书十年磨一剑   
+http://nicephil.blinkenshell.org/my_book/index.html
