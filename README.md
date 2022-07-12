@@ -756,3 +756,6 @@ http://web.mit.edu/gnu/doc/html/as_7.html
 
 我的经验书十年磨一剑   
 http://nicephil.blinkenshell.org/my_book/index.html
+
+图解：什么是红黑树？    
+https://zhuanlan.zhihu.com/p/273829162
