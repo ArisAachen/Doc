@@ -765,3 +765,6 @@ http://tengine.taobao.org/book/index.html
 
 vscode+docker搭建linux c开发环境.    
 https://blog.csdn.net/qq_29328443/article/details/124782063
+
+【性能】Linux性能分析神器perf、execsnoop的安装和使用.    
+https://www.jianshu.com/p/e9b1505ed104  
