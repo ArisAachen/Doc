@@ -786,3 +786,6 @@ https://guide.v2fly.org/
 
 Call graph    
 https://en.wikipedia.org/wiki/Call_graph 
+
+Solaris 开发者安全性指南   
+https://docs.oracle.com/cd/E19253-01/819-7056/index.html
