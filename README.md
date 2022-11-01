@@ -789,3 +789,6 @@ https://en.wikipedia.org/wiki/Call_graph
 
 Solaris 开发者安全性指南   
 https://docs.oracle.com/cd/E19253-01/819-7056/index.html
+
+深入理解glibc malloc：内存分配器实现原理   
+https://zhuanlan.zhihu.com/p/452423278
